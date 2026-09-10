@@ -1,0 +1,15 @@
+{
+  "map": "suspended Hopf Sigma h",
+  "regular_value": [0.0,0.0,0.0,1.0],
+  "preimage": "X(t)=(0,cos t,sin t,0,0)",
+  "segments": 512,
+  "minimum_abs_det_differential": 3.99999999999,
+  "minimum_singular_value": 0.9999999999995,
+  "SO3_loop_closure_max_abs": 2.220446049250313e-16,
+  "SO2_block_winding": 1.0,
+  "spin_lift_endpoint": [-1.0,-5.056718932472392e-16,0.0,0.0],
+  "spin_lift_distance_to_minus_one": 5.056718932472392e-16,
+  "max_increment_rotation_angle": 0.012271846303059884,
+  "W_sigma_h": -1,
+  "status": "PASS"
+}
