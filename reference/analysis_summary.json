@@ -1,0 +1,13 @@
+{
+  "chains": 124,
+  "ensembles": 31,
+  "bootstrap_replicates": 4000,
+  "moving_block_length_measurements": 12,
+  "max_xi_rhat_0p600_to_0p610": 1.0043609692109006,
+  "max_abs_xi_hotcold_z_0p600_to_0p610": 2.0352501412596906,
+  "max_action_rhat_0p600_to_0p610": 1.0113726731687558,
+  "max_m2_rhat_0p600_to_0p610": 1.0065941213769722,
+  "all_reported_xi_crossing_brackets_valid": true,
+  "interpretation": "finite-size dynamics demonstration only; no precision infinite-volume beta_c or critical exponent is extracted",
+  "status": "PASS"
+}
