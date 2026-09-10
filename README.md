@@ -1,8 +1,8 @@
 # s3-postnikov-completion
 
-Numerical code accompanying the manuscript **A Z2 Postnikov completion of the topological sector of the four-dimensional lattice S3 sigma model**.
+Numerical code accompanying the manuscript **Postnikov completion of the topological sector of a four-dimensional lattice sigma model with three-sphere target**.
 
-The repository contains four independent parts of the calculation:
+The repository contains the four parts of the numerical and finite validation used in the paper:
 
 - `cochain_checks.py` evaluates the simplicial cup-i formulas, the ordered five-simplex Sq^2 relation, and the descendant identity.
 - `pi4_preimage_framing.py` evaluates the regular-value preimage and differential-induced framing of the suspended-Hopf representative.
