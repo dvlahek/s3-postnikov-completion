@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "s3-postnikov-completion"
+type: software
+authors:
+  - family-names: "Vlahek"
+    given-names: "Dino"
+repository-code: "https://github.com/dvlahek/s3-postnikov-completion"
+date-released: "2026-09-10"
