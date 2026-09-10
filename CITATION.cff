@@ -5,5 +5,6 @@ type: software
 authors:
   - family-names: "Vlahek"
     given-names: "Dino"
+    orcid: "https://orcid.org/0000-0002-3911-8685"
 repository-code: "https://github.com/dvlahek/s3-postnikov-completion"
 date-released: "2026-09-10"
