@@ -1,0 +1,13 @@
+{
+  "test_name": "local cochain consistency, not an independent Gu-Wen evaluation",
+  "z3_dimension": 10,
+  "z3_cocycles": 1024,
+  "generic_vs_explicit_sq2_matches": 1024,
+  "sq2_equal_one_cases": 448,
+  "compatible_alpha_zeta_pairs": 32768,
+  "zeta_solutions_per_alpha": 32,
+  "descendant_identity_pairs_tested": 216064,
+  "descendant_b_suite": "all C^2 cochains of Hamming weight 0, 1, or 2",
+  "cup_i_coboundary_random_trials": 2000,
+  "status": "PASS"
+}
